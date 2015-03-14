@@ -1,0 +1,16 @@
+This Program includes 6 cryptos in total including 4 Homomorphic cryptos:
+
+1.DESede
+2.ECIES
+3.ELGAMAL
+4.RSA
+5.PAILLIER
+6.EXPONENTIAL ELGAMAL
+
+You can choose a specific crypto using integers from 1 to 6 to select (-1 to quit the program).
+
+After your selection, you will get information about the encryption and decryption result, 
+the time each operation costs, input length as well as key size.
+
+Besides, it will check its homomorphic properties, both addictive and multiplicative property, print out the result. 
+
